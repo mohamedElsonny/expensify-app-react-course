@@ -27,6 +27,7 @@
     "moment": "^2.20.1",
     "node-sass": "4.5.3",
     "normalize.css": "^7.0.0",
+    "numeral": "^2.0.6",
     "react": "16.0.0",
     "react-addons-shallow-compare": "15.6.0",
     "react-dates": "^16.2.1",
@@ -47,9 +48,9 @@
     "eslint-config-airbnb": "^16.1.0",
     "eslint-plugin-import": "^2.8.0",
     "eslint-plugin-jsx-a11y": "^6.0.3",
-    "webpack-dev-server": "^2.11.1",
     "eslint-plugin-react": "^7.6.1",
     "jest": "20.0.4",
-    "live-server": "^1.2.0"
+    "live-server": "^1.2.0",
+    "webpack-dev-server": "^2.11.1"
   }
 }
